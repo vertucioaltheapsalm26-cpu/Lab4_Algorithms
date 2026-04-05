@@ -33,7 +33,7 @@ end
 # Unset irrelevant variables.
 deactivate nondestructive
 
-set -gx VIRTUAL_ENV 'C:\Users\Vertucio\OneDrive\Documents\Python\ComProg_Lab\Lab4_DataStructures_Vertucio\.venv'
+set -gx VIRTUAL_ENV 'C:\Users\Vertucio\OneDrive\Documents\Python\ComProg_Lab\Lab4_Algorithms_Vertucio\.venv'
 
 set -gx _OLD_VIRTUAL_PATH $PATH
 set -gx PATH "$VIRTUAL_ENV/"Scripts $PATH

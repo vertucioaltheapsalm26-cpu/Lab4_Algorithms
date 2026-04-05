@@ -1,4 +1,0 @@
-print("Lab 1: Version Control")
-print("Author: Althea Psalm Vertucio")
-print("Student ID: TUPM-24-4535")
-print("Class Section: BSECE 1A")
